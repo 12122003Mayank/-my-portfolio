@@ -1,0 +1,70 @@
+.Front_page
+{
+  border-style: double;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 100px;
+  margin: 5cm;
+  background-color: #E75F87;
+}
+body
+  {
+    background-color:#FFA4B3;
+  }
+h1
+{
+  color:brown;
+  font-weight: 800;
+  font-size: 1cm;
+}
+.Mayank
+{
+ font-size: 2cm;
+ position:fixed;
+ top:0;
+ bottom:0;
+ border-style: inset;
+}
+#S
+{
+  border-style: solid;
+  border-color:#FFA4B3 ;
+  border-radius: 2cm;
+}
+#Q
+{
+  border-style:dotted;
+  border-color:darkred;
+  font-size: 2cm;
+  text-align: center;
+}
+.games
+{
+  border-style: double;
+  border-color: darkred;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
+  flex-basis: 100%;
+  margin: 8%;
+}
+.particular
+{
+  flex-basis: 25%;
+  padding: 4%;
+  border-style:dashed;
+  border-radius: 40px 100px;
+  color:firebrick;
+  margin: 3%;
+}
+p
+{
+  font-size:1cm;
+  color: firebrick;
+}
+.social_media
+{
+  display:flex;
+  flex-direction: row;
+}
